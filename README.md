@@ -1,9 +1,9 @@
-<h1 aling="center">DevLink</h1>
+<h1 align="center">DevLink</h1>
 
-<p aling="center">Projeto realizado com o curso discover da plataforma Rocketseat</p>
+<p align="center">Projeto realizado com o curso discover da plataforma Rocketseat</p>
 
-<p aling="center">
-  <img alt="projeto devLink" src=".github/Cover.jpg"
+<p align="center">
+  <img alt="projeto devLink" src=".github/tela-devLink.jpg"
   width="100%">
 </p>
 
